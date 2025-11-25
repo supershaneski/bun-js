@@ -2,7 +2,7 @@
   "name": "bun-js",
   "version": "1.0.0",
   "description": "A JavaScript template for Bun",
-  "main": "src/index.js",
+  "module": "src/index.js",
   "type": "module",
   "private": true,
   "scripts": {
@@ -13,8 +13,5 @@
   },
   "peerDependencies": {
     "typescript": "^5"
-  },
-  "engines": {
-    "bun": ">=1.0.0"
   }
 }
