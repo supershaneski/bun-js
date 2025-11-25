@@ -7,8 +7,8 @@ This is a blank JavaScript template for Bun.
 To create a new project using this template:
 
 ```bash
-bun create yourname/bun-js <project_name>
-bun create github.com/yourname/bun-js <project_name>
+bun create supershaneski/bun-js <project_name>
+bun create github.com/supershaneski/bun-js <project_name>
 
 cd <project_name>
 ```
